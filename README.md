@@ -10,9 +10,9 @@ Some preprocessing and normalization has been done on the data. The datasets are
 
 
 **Requarments**: 
-Python
-TensorFlow
-Numpy
-Matplotlib
-Scipy
-Scikit-learn
+Python <br />
+TensorFlow <br />
+Numpy <br />
+Matplotlib <br />
+Scipy <br />
+Scikit-learn <br />
