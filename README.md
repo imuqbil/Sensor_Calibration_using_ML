@@ -9,7 +9,7 @@ Since it's a regression problem, I implemented a number of ML regression algorit
 Some preprocessing and normalization has been done on the data. The datasets are not included due to confidentiality. 
 
 
-**Requarments**: 
+**Requarments**: <br />
 Python <br />
 TensorFlow <br />
 Numpy <br />
